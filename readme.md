@@ -12,7 +12,7 @@ If you want to build this from the SCAD file, you will need [my M12 turret mount
 
 If you merely want to print the STLs, you'll need **pi-zero-M12-camera.stl** from this repository, with **turret.stl** and **pi-zero-90-degree-module-holder.stl** from [my M12 turret mount library](https://github.com/JennyList/m12-turret-camera).
 
-You will also need a Pi Zero with a camera module interface, [a Pimoroni Diaplay HAT Mini](https://shop.pimoroni.com/products/display-hat-mini,, three M12 lens holders with lenses, and a pinhole-type Raspberry Pi camera module. This last part is not the official Raspberry Pi camera module with a PCB, instead it's the type you can find on AliExpress or similar that comes on a flexible PCB ribbon cable. The instructions for removing the pinhole lens are in the turret camera repository.
+You will also need a Pi Zero with a camera module interface, [a Pimoroni Diaplay HAT Mini](https://shop.pimoroni.com/products/display-hat-mini), three M12 lens holders with lenses, and a pinhole-type Raspberry Pi camera module. This last part is not the official Raspberry Pi camera module with a PCB, instead it's the type you can find on AliExpress or similar that comes on a flexible PCB ribbon cable. The instructions for removing the pinhole lens are in the turret camera repository.
 
 ## Assembly
 
