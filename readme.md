@@ -4,6 +4,8 @@
 
 This is a compact camera using a Raspberry Pi Zero and a Pimoroni Display HAT Mini. It has a 3-lens M12 turret mount.
 
+![A picture of the camera, assembled.](./completed-camera.jpg)
+
 ## You Will Need
 
 If you want to build this from the SCAD file, you will need [my M12 turret mount library](https://github.com/JennyList/m12-turret-camera) and [my parametric project box library](https://github.com/JennyList/Jennys-rectangular-project-box).
