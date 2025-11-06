@@ -36,6 +36,8 @@ Focusing has to be done with care, particularly on the longer lenses. You may ne
 
 ## Video description
 
+Click the image to be taken to my YouTube video on this camera.
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/UntZmKj_IJE/0.jpg)](https://www.youtube.com/watch?v=UntZmKj_IJE)
 
 ## Credits
