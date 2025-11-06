@@ -34,6 +34,10 @@ This camera does not have a battery. It's an experimental device, you will have 
 
 Focusing has to be done with care, particularly on the longer lenses. You may need to remove the IR filter in your M12 lens holder to give enough focusing space.
 
+## Video description
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/UntZmKj_IJE/0.jpg)](https://www.youtube.com/watch?v=UntZmKj_IJE)
+
 ## Credits
 
 Jenny List 2025
